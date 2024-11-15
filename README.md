@@ -7,7 +7,7 @@ This script is designed to restore plain-text, export files created using the fo
 /export show-sensitive terse file=myrtrbackup
 ```
 
-:stop_sign: NOTE: show-sensitive will NOT export anything under /user or //certificate/
+:stop_sign: NOTE: show-sensitive will NOT export anything under /user or /certificate
 
 ## Features
 

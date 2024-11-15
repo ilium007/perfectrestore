@@ -4,7 +4,7 @@ MikroTik config restore helper script
 This script is designed to restore plain-text, export files created using the following command.
 
 ```
-/export file=myrtrbackup
+/export show-sensitive terse file=myrtrbackup
 ```
 
 ## Features

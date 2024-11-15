@@ -7,6 +7,8 @@ This script is designed to restore plain-text, export files created using the fo
 /export show-sensitive terse file=myrtrbackup
 ```
 
+:stop_sign: NOTE: show-sensitive will NOT export anything under /user or //certificate/
+
 ## Features
 
 * **Introduces a delay** – This allows time for the router’s interfaces to initialize before running the import script.
